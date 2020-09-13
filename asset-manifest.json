@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sim0417/my-study-reactMovieApp.git/static/css/main.ce20c532.chunk.css",
-    "main.js": "/sim0417/my-study-reactMovieApp.git/static/js/main.eee5b1b5.chunk.js",
-    "main.js.map": "/sim0417/my-study-reactMovieApp.git/static/js/main.eee5b1b5.chunk.js.map",
-    "runtime-main.js": "/sim0417/my-study-reactMovieApp.git/static/js/runtime-main.de04c0bd.js",
-    "runtime-main.js.map": "/sim0417/my-study-reactMovieApp.git/static/js/runtime-main.de04c0bd.js.map",
-    "static/js/2.2d18b1f5.chunk.js": "/sim0417/my-study-reactMovieApp.git/static/js/2.2d18b1f5.chunk.js",
-    "static/js/2.2d18b1f5.chunk.js.map": "/sim0417/my-study-reactMovieApp.git/static/js/2.2d18b1f5.chunk.js.map",
-    "index.html": "/sim0417/my-study-reactMovieApp.git/index.html",
-    "precache-manifest.cb3bb5e4c5a0a183c9236c08d8e4d2b9.js": "/sim0417/my-study-reactMovieApp.git/precache-manifest.cb3bb5e4c5a0a183c9236c08d8e4d2b9.js",
-    "service-worker.js": "/sim0417/my-study-reactMovieApp.git/service-worker.js",
-    "static/css/main.ce20c532.chunk.css.map": "/sim0417/my-study-reactMovieApp.git/static/css/main.ce20c532.chunk.css.map",
-    "static/js/2.2d18b1f5.chunk.js.LICENSE.txt": "/sim0417/my-study-reactMovieApp.git/static/js/2.2d18b1f5.chunk.js.LICENSE.txt"
+    "main.css": "/my-study-reactMovieApp.git/static/css/main.ce20c532.chunk.css",
+    "main.js": "/my-study-reactMovieApp.git/static/js/main.eee5b1b5.chunk.js",
+    "main.js.map": "/my-study-reactMovieApp.git/static/js/main.eee5b1b5.chunk.js.map",
+    "runtime-main.js": "/my-study-reactMovieApp.git/static/js/runtime-main.0caba293.js",
+    "runtime-main.js.map": "/my-study-reactMovieApp.git/static/js/runtime-main.0caba293.js.map",
+    "static/js/2.2d18b1f5.chunk.js": "/my-study-reactMovieApp.git/static/js/2.2d18b1f5.chunk.js",
+    "static/js/2.2d18b1f5.chunk.js.map": "/my-study-reactMovieApp.git/static/js/2.2d18b1f5.chunk.js.map",
+    "index.html": "/my-study-reactMovieApp.git/index.html",
+    "precache-manifest.35163bfae31e4e6598065a938e4fb00a.js": "/my-study-reactMovieApp.git/precache-manifest.35163bfae31e4e6598065a938e4fb00a.js",
+    "service-worker.js": "/my-study-reactMovieApp.git/service-worker.js",
+    "static/css/main.ce20c532.chunk.css.map": "/my-study-reactMovieApp.git/static/css/main.ce20c532.chunk.css.map",
+    "static/js/2.2d18b1f5.chunk.js.LICENSE.txt": "/my-study-reactMovieApp.git/static/js/2.2d18b1f5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.de04c0bd.js",
+    "static/js/runtime-main.0caba293.js",
     "static/js/2.2d18b1f5.chunk.js",
     "static/css/main.ce20c532.chunk.css",
     "static/js/main.eee5b1b5.chunk.js"
