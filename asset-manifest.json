@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-study-react-movie-app/static/css/main.ce20c532.chunk.css",
-    "main.js": "/my-study-react-movie-app/static/js/main.eee5b1b5.chunk.js",
-    "main.js.map": "/my-study-react-movie-app/static/js/main.eee5b1b5.chunk.js.map",
+    "main.css": "/my-study-react-movie-app/static/css/main.44b01a2f.chunk.css",
+    "main.js": "/my-study-react-movie-app/static/js/main.0bd193b8.chunk.js",
+    "main.js.map": "/my-study-react-movie-app/static/js/main.0bd193b8.chunk.js.map",
     "runtime-main.js": "/my-study-react-movie-app/static/js/runtime-main.88d6053d.js",
     "runtime-main.js.map": "/my-study-react-movie-app/static/js/runtime-main.88d6053d.js.map",
     "static/js/2.2d18b1f5.chunk.js": "/my-study-react-movie-app/static/js/2.2d18b1f5.chunk.js",
     "static/js/2.2d18b1f5.chunk.js.map": "/my-study-react-movie-app/static/js/2.2d18b1f5.chunk.js.map",
     "index.html": "/my-study-react-movie-app/index.html",
-    "precache-manifest.f77b8282c89aaf9a0486afbad62fa823.js": "/my-study-react-movie-app/precache-manifest.f77b8282c89aaf9a0486afbad62fa823.js",
+    "precache-manifest.fc88ddabd33115d2d86896c379f8db08.js": "/my-study-react-movie-app/precache-manifest.fc88ddabd33115d2d86896c379f8db08.js",
     "service-worker.js": "/my-study-react-movie-app/service-worker.js",
-    "static/css/main.ce20c532.chunk.css.map": "/my-study-react-movie-app/static/css/main.ce20c532.chunk.css.map",
+    "static/css/main.44b01a2f.chunk.css.map": "/my-study-react-movie-app/static/css/main.44b01a2f.chunk.css.map",
     "static/js/2.2d18b1f5.chunk.js.LICENSE.txt": "/my-study-react-movie-app/static/js/2.2d18b1f5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.88d6053d.js",
     "static/js/2.2d18b1f5.chunk.js",
-    "static/css/main.ce20c532.chunk.css",
-    "static/js/main.eee5b1b5.chunk.js"
+    "static/css/main.44b01a2f.chunk.css",
+    "static/js/main.0bd193b8.chunk.js"
   ]
 }
