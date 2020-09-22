@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-study-react-movie-app/static/css/main.40b42d1b.chunk.css",
-    "main.js": "/my-study-react-movie-app/static/js/main.b9e01003.chunk.js",
-    "main.js.map": "/my-study-react-movie-app/static/js/main.b9e01003.chunk.js.map",
+    "main.css": "/my-study-react-movie-app/static/css/main.c1f58e02.chunk.css",
+    "main.js": "/my-study-react-movie-app/static/js/main.61616deb.chunk.js",
+    "main.js.map": "/my-study-react-movie-app/static/js/main.61616deb.chunk.js.map",
     "runtime-main.js": "/my-study-react-movie-app/static/js/runtime-main.88d6053d.js",
     "runtime-main.js.map": "/my-study-react-movie-app/static/js/runtime-main.88d6053d.js.map",
-    "static/js/2.2d18b1f5.chunk.js": "/my-study-react-movie-app/static/js/2.2d18b1f5.chunk.js",
-    "static/js/2.2d18b1f5.chunk.js.map": "/my-study-react-movie-app/static/js/2.2d18b1f5.chunk.js.map",
+    "static/js/2.55301e15.chunk.js": "/my-study-react-movie-app/static/js/2.55301e15.chunk.js",
+    "static/js/2.55301e15.chunk.js.map": "/my-study-react-movie-app/static/js/2.55301e15.chunk.js.map",
     "index.html": "/my-study-react-movie-app/index.html",
-    "precache-manifest.a924767dc9dccae0ed8592fbc0634f9e.js": "/my-study-react-movie-app/precache-manifest.a924767dc9dccae0ed8592fbc0634f9e.js",
+    "precache-manifest.7ea91bb4735ef92d62408cda5f6d63c5.js": "/my-study-react-movie-app/precache-manifest.7ea91bb4735ef92d62408cda5f6d63c5.js",
     "service-worker.js": "/my-study-react-movie-app/service-worker.js",
-    "static/css/main.40b42d1b.chunk.css.map": "/my-study-react-movie-app/static/css/main.40b42d1b.chunk.css.map",
-    "static/js/2.2d18b1f5.chunk.js.LICENSE.txt": "/my-study-react-movie-app/static/js/2.2d18b1f5.chunk.js.LICENSE.txt"
+    "static/css/main.c1f58e02.chunk.css.map": "/my-study-react-movie-app/static/css/main.c1f58e02.chunk.css.map",
+    "static/js/2.55301e15.chunk.js.LICENSE.txt": "/my-study-react-movie-app/static/js/2.55301e15.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.88d6053d.js",
-    "static/js/2.2d18b1f5.chunk.js",
-    "static/css/main.40b42d1b.chunk.css",
-    "static/js/main.b9e01003.chunk.js"
+    "static/js/2.55301e15.chunk.js",
+    "static/css/main.c1f58e02.chunk.css",
+    "static/js/main.61616deb.chunk.js"
   ]
 }
